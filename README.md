@@ -65,19 +65,19 @@ As imagens são adicionadas apenas via link externo.
 ## Screenshots
 
 ### Página inicial
-![Index](assets/images/Index.png)
+![Index](https://raw.githubusercontent.com/thiagosag/contos-esquecidos/refs/heads/main/assets/Imagens/Index.png)
 
 ### Login
-![Login](assets/images/Login.png)
+![Login](https://raw.githubusercontent.com/thiagosag/contos-esquecidos/refs/heads/main/assets/Imagens/Login.png)
 
 ### Painel administrativo
-![Admin](assets/images/Admin.png)
+![Admin](https://raw.githubusercontent.com/thiagosag/contos-esquecidos/refs/heads/main/assets/Imagens/Admin.png)
 
 ### Edição de post
-![Editar](assets/images/Editar.png)
+![Editar](https://raw.githubusercontent.com/thiagosag/contos-esquecidos/refs/heads/main/assets/Imagens/Editar.png)
 
 ### Visualização de post
-![Post](assets/images/Post.png)
+![Post](https://raw.githubusercontent.com/thiagosag/contos-esquecidos/refs/heads/main/assets/Imagens/Post.png)
 
 ---
 
