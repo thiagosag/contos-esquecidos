@@ -83,12 +83,12 @@ As imagens são adicionadas apenas via link externo.
 
 ## Tecnologias utilizadas
 
-- PHP
-- MySQL
-- HTML
-- CSS
-- Sessões PHP
-- Hash de senhas
+- PHP;
+- MySQL;
+- HTML;
+- CSS;
+- Sessões PHP;
+- Hash de senhas;
 
 ---
 
