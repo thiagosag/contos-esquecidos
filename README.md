@@ -5,6 +5,8 @@ Sistema de blog desenvolvido em PHP puro com autenticação de usuários, painel
 O projeto foi desenvolvido com foco em estudo prático de backend web, autenticação segura e manipulação de banco de dados MySQL.
 
 ---
+## Projeto em funcionamento
+Acesse o sistema online: http://www.contosesquecidos.great-site.net/
 
 ## Visão geral
 
