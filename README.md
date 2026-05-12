@@ -85,15 +85,9 @@ As imagens são adicionadas apenas via link externo.
 
 ## Tecnologias utilizadas
 
-- PHP;
-- MySQL;
-- HTML;
-- CSS;
-- Sessões PHP;
-- Hash de senhas;
-
----
-
-## Licença
-
-MIT License
+- PHP
+- MySQL
+- HTML
+- CSS
+- Sessões PHP
+- Hash de senhas
