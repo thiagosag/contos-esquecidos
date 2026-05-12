@@ -64,25 +64,6 @@ As imagens são adicionadas apenas via link externo.
 
 ---
 
-## Screenshots
-
-### Página inicial
-![Index](https://raw.githubusercontent.com/thiagosag/contos-esquecidos/refs/heads/main/assets/Imagens/Index.png)
-
-### Login
-![Login](https://raw.githubusercontent.com/thiagosag/contos-esquecidos/refs/heads/main/assets/Imagens/Login.png)
-
-### Painel administrativo
-![Admin](https://raw.githubusercontent.com/thiagosag/contos-esquecidos/refs/heads/main/assets/Imagens/Admin.png)
-
-### Edição de post
-![Editar](https://raw.githubusercontent.com/thiagosag/contos-esquecidos/refs/heads/main/assets/Imagens/Editar.png)
-
-### Visualização de post
-![Post](https://raw.githubusercontent.com/thiagosag/contos-esquecidos/refs/heads/main/assets/Imagens/Post.png)
-
----
-
 ## Tecnologias utilizadas
 
 - PHP
@@ -91,3 +72,21 @@ As imagens são adicionadas apenas via link externo.
 - CSS
 - Sessões PHP
 - Hash de senhas
+
+---
+
+## Preview
+
+### Página inicial e sistema de CRUD.
+A página inicial gera em ordem decrescente os posts mais recentes para os mais antigos. Inicialmente apresenta apenas três posts simples, somente para exemplo. Já o sistema de **CRUD** disponibiliza funções como: **visualizar, editar e apagar.**
+
+![Index](https://raw.githubusercontent.com/thiagosag/contos-esquecidos/refs/heads/main/assets/Imagens/inicio_CRUD.png)
+
+---
+
+### Publicação e edição de posts.
+Após a validação do id inserido via GET, o site apresenta todas as informações do post. Enquanto o painel de edições possibilita a **alteração de dados** do mesmo.
+
+![Admin](https://raw.githubusercontent.com/thiagosag/contos-esquecidos/refs/heads/main/assets/Imagens/posts_edicao.png)
+
+---
