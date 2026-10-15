@@ -17,7 +17,7 @@
         <header>
             <!--Criar navbar padrão de navegação--> 
             <nav id="header" class="navbar navbar-expand-md"> 
-                <div class="container"> <!--FLUID OUCUPA 100% DA PÁGINA-->
+                <div class="container">
                     <a class="navbar-brand" href="index.php"><img src="../../img/logo.png" height="50"/></a> <!--Adicionar a logo do site no canto esquerdo superior-->
                         <ul class="navbar-nav ms-auto"> 
                              <li class="nav-item">
