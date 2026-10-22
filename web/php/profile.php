@@ -9,7 +9,6 @@
         $stmt = $pdo->prepare($sql); 
         $stmt->execute([$_SESSION['email']]);  
         $nomeUsuario = $stmt->fetch(PDO::FETCH_ASSOC);  
-        # ”fetchAll” RETORNA TODOS OS RESULTADOS DE UMA SÓ VEZ. / ”PDO::FETCH_ASSOC” retorna em ARRAY. 
         $_SESSION['usuario'] = $nomeUsuario;
     } catch(PDOException $e){
         echo 'Erro encontrado, vejas os detalhes: ' .$e->getMessage();
