@@ -11,7 +11,6 @@
     
     }
     if(isset($_POST['register_button'])){
-        var_dump('Entrou no code.');
         $email = $_POST['email'];
         $usuarioName = $_POST['usuarioName'];
         $senha = $_POST['senha'];
@@ -24,7 +23,6 @@
 
         if(!($senha === $confirmaSenha)){
             header('Location: cadastro.php');
-            #NÃO EXIBE FEEDBACK;
             exit;
         };
 
@@ -34,7 +32,6 @@
         $checkEmail = $stmt->fetch(); #retorna todos os dados conforme for verdadeiro.
         if($checkEmail){
             $_SESSION['status'] = 'Email ID alredy Exists';
-            #NÃO EXIBO FEEDBACK;
             header('Location: cadastro.php');
             exit;
         }else{
