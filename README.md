@@ -76,7 +76,7 @@ As imagens são adicionadas apenas via link externo.
 ## Preview
 
 ### Página inicial e sistema de CRUD.
-A página inicial gera em ordem decrescente os posts mais recentes para os mais antigos. Inicialmente apresenta apenas três posts simples, somente para exemplo. Já o sistema de **CRUD** disponibiliza funções como: **visualizar, editar e apagar.**
+A página inicial gera em ordem decrescente os posts mais recentes para os mais antigos. Inicialmente apresenta apenas três posts simples, somente para exemplo. Já o sistema de **CRUD** disponibiliza funções como: **visualizar, editar e apagar**, operações básicas.
 
 ![Index](https://raw.githubusercontent.com/thiagosag/contos-esquecidos/refs/heads/main/assets/Imagens/inicio_CRUD.png)
 
